@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api/?username=lukstep&show_icons=true&count_private=true&title_color=79ff97&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <!--
 **lukstep/lukstep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
